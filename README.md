@@ -1,8 +1,8 @@
-       # Hi you :)
+# Hi you :)
 
 
-       #### Take a moment to be present.
+#### Take a moment to be present.
 
-       #### What would you like to do now?
+#### What would you like to do now? __________
 
-       #### Why are you here today?
+#### Why are you here today?  ___________
