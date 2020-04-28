@@ -3,6 +3,6 @@
 
 #### Take a moment to be present.
 
-#### What would you like to do now? _____________
+#### What would you like to do now? 
 
-#### Why are you here today?  ___________
+#### Why are you here today? 
