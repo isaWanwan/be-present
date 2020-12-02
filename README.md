@@ -8,8 +8,8 @@ We want to test two different survey versions. Please take both kind of surveys 
 4. meta questions 
 <br />
 <br />
-#### You can find the classical survey on the button below.  
-#### The chat survey is on the bottom right of this page.
+##### You can find the classical survey on the button below.  
+##### The chat survey is on the bottom right of this page.
 <br />
 - If your birthday is on an even date, please start with the classical survey first, then take the meta question survey, then take the chat function survey (which is on the bottom right of this page) and then take the meta questions again.   
 <br />
