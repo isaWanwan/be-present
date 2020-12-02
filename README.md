@@ -3,7 +3,7 @@
 
 </style> 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
