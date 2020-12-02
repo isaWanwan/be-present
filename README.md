@@ -1,7 +1,18 @@
 
 <style>
-   body {
+
+</style> 
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
     background-color:#EFEAE8;
+}
+</style> 
+</head>
+</html>
 
 ## Survey testing
 Hi! 
@@ -27,5 +38,3 @@ We want to test two different versions of a survey for our Both& website. We wil
 <br />
 <br />
 <br />
-}
-</style> 
