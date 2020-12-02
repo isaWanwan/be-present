@@ -1,5 +1,6 @@
 ## Survey testing
-Hi!    
+Hi! 
+<br />
 Thank you for taking part in this research! It will help us and future survey takers from our community a lot!   
 <br /> 
 We want to test two different versions of a survey for our Both& website. We will test a version A and a version B. We would like you to take both survey versions and answer subsequent meta questions for each. You will be guided to the meta questions automatically, so don't worry about that. All in all, it shouldn't take you more than 10 min.
