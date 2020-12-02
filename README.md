@@ -7,7 +7,6 @@
 
 #### Why are you [here](https://www.gracechuang.me/) today?  
 
-SET UP A <a class="typeform-share link" href="https://form.typeform.com/to/ghExjbDe" data-mode="drawer_left" style="color:#282625;text-decoration:underline;font-size:16px;" target="_blank">15 MIN CALL </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> WITH OUR FOUNDER TO DISCUSS YOUR EXPERIENCE WITH CLOTHING.
 
 
 
