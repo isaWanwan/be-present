@@ -8,7 +8,8 @@
 <head>
 <style>
 body {
-    background-color:#EFEAE8;
+    background-color: #EFEAE8;
+    color: #3F634C;
 }
 </style> 
 </head>
