@@ -6,7 +6,7 @@ We want to test two different versions of a survey for out Both& website. There 
 1. survey (A or B)
 2. meta questions
 3. other survey (B or A)
-4. meta questions
+4. meta questions   
 ##### Which survey should you take first?
 - If your birthday is on an even date (e.g., 8th of a month), please start with the A version.
 - If your birthday is on an odd date (e.g., 9th of a month), please start with the B version.
