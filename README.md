@@ -1,5 +1,5 @@
 ## Survey testing
-Hi!:) Thank you for taking part in this research.  
+Hi!Thank you for taking part in this research.  
 We want to test two different versions of a survey for out Both& website. There will be version A and version B. We would like you to take both survey versions and answer subsequent meta questions for each. You will be guided to the meta questions automatically, so do not worry about that. All combined, it shouldn't take you more than 10 min.
 <br />
 ##### The structure will look like that
@@ -7,7 +7,7 @@ We want to test two different versions of a survey for out Both& website. There 
 2. meta questions
 3. other survey (B or A)
 4. meta questions  
-"selector_separator_newline": false
+  
 ##### Which survey should you take first?
 - If your birthday is on an even date (e.g., 8th of a month), please start with the A version.
 - If your birthday is on an odd date (e.g., 9th of a month), please start with the B version.
