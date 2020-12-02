@@ -1,4 +1,7 @@
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
+<style>
+   body {
+    background-color:#EFEAE8;
 
 ## Survey testing
 Hi! 
@@ -24,3 +27,5 @@ We want to test two different versions of a survey for our Both& website. We wil
 <br />
 <br />
 <br />
+}
+</style> 
