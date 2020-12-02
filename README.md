@@ -6,7 +6,7 @@ We want to test two different survey versions. Please take both kind of surveys 
 2. meta questions
 3. other survey (classical survey or chat)
 4. meta questions 
-<br />
+
 ##### Where to begin?
 - If your birthday is on an even day (8th of August), please start with the classical survey first, then take the meta question survey, then take the chat function survey (which is on the bottom right of this page) and then take the meta questions again.   
 - If your birthday is on an odd date (9th of August), please start with the chat button first (bottom right of this page) and proceed as above.
