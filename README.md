@@ -20,7 +20,7 @@ Hi!
 <br />  
 Thank you for taking part in this research! Your opinion will help us and future survey takers!   
 <br /> 
-We want to test two different versions of a survey for our Both& website - version A and version B. We would like you to take both survey versions. After each survey, you will be guided to the meta questions automatically. Total completion time should be around 10min.
+We want to test two different versions of a survey for our Both& website - version A and version B. We would like you to test both survey versions. After each survey, you will be guided to meta questions automatically. Total completion time should be around 10min.
 <br />
 ##### The structure will look like that
 
@@ -33,8 +33,8 @@ We want to test two different versions of a survey for our Both& website - versi
 - If your birthday is on an even date (e.g., 8th of a month), please start with the A version.
 - If your birthday is on an odd date (e.g., 9th of a month), please start with the B version.  
   
-##### The A version button is here *double click* <a class="typeform-share button" href="https://form.typeform.com/to/SczGpFGi?typeform-medium=embed-snippet" data-mode="drawer_left" style="display:inline-block;text-decoration:none;background-color:#457A53;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" target="_blank">A </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
-##### The B version button is on the bottom right  
+##### The version A is here *double click* <a class="typeform-share button" href="https://form.typeform.com/to/SczGpFGi?typeform-medium=embed-snippet" data-mode="drawer_left" style="display:inline-block;text-decoration:none;background-color:#457A53;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" target="_blank">A </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+##### The button for version B is on the bottom right  
 <div class="cui-embed" data-cui-uid="brvfRVMp" data-cui-avatar="https://images.typeform.com/images/sqwX4feQSRBe" data-cui-mode="pill" data-cui-pill-button-color="#457A53"></div><script src="https://public-assets.typeform.com/confab/embed.js" async></script>
 <br />
 <br />
