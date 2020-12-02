@@ -4,7 +4,7 @@ We want to test two different survey versions. Please take both kind of surveys 
 ##### The succession will look like that
 1. survey (chat or classical survey)
 2. meta questions
-3. other survey respectively (classical survey or chat)
+3. other survey (classical survey or chat)
 4. meta questions 
 <br />
 ##### Where to begin?
