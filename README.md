@@ -1,6 +1,6 @@
 ## Survey testing
 Hi!:) Thank you for taking part in this research.  
-We want to test two different versions of a survey for out Both& website. There will be version A and version B. We would like you to take both survey versions and answer subsequent meta questions for each. You will be guided to the meta questions automatically, so do not worry about that. All together it shouldn't take you more than 10 min.
+We want to test two different versions of a survey for out Both& website. There will be version A and version B. We would like you to take both survey versions and answer subsequent meta questions for each. You will be guided to the meta questions automatically, so do not worry about that. All combined, it shouldn't take you more than 10 min.
 <br />
 ##### The structure will look like that
 1. survey (A or B)
