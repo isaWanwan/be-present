@@ -7,12 +7,13 @@ We want to test two different survey versions. Please take both kind of surveys 
 3. other survey respectively (classical survey or chat)
 4. meta questions 
 <br />
-You can find the classical survey on the button below.  
-The chat survey is on the bottom right of this page.
 <br />
-If your birthday is on an even date, please start with the classical survey first, then take the meta question survey, then take the chat function survey (which is on the bottom right of this page) and then take the meta questions again.   
+#### You can find the classical survey on the button below.  
+#### The chat survey is on the bottom right of this page.
 <br />
-If your birthday is on an odd date, please start with the chat button first (bottom right of this page) and proceed as above.
+- If your birthday is on an even date, please start with the classical survey first, then take the meta question survey, then take the chat function survey (which is on the bottom right of this page) and then take the meta questions again.   
+<br />
+- If your birthday is on an odd date, please start with the chat button first (bottom right of this page) and proceed as above.
 
 <div class="cui-embed" data-cui-uid="brvfRVMp" data-cui-avatar="https://images.typeform.com/images/qpbWWnuSZKnd" data-cui-mode="pill" data-cui-pill-button-color="#3C6997"></div><script src="https://public-assets.typeform.com/confab/embed.js" async></script>
 
