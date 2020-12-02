@@ -1,9 +1,9 @@
 ## Hi!:) Thank you for taking part in this research.  
-We want to test two different survey versions. Please take both kind of surveys and answer the subsequent meta questions each time.  
-If your birthday is on an even date, please start with the classical survey first, then do the meta questions, then take the chat function survey (which is on the bottom right.   
+We want to test two different survey versions. Please take both kind of surveys and answer the subsequent meta questions for each kind of survey. You will be guided to the meta question survey automatically.  
 <br />
-If your birthday is on an odd date, please start with the chat button first, which is on the bottom right of this page.
-
+If your birthday is on an even date, please start with the classical survey first, then take the meta question survey, then take the chat function survey (which is on the bottom right of this page) and then take the meta questions again.   
+<br />
+If your birthday is on an odd date, please start with the chat button first (bottom right of this page) and proceed as above.
 
 <br />
 <br />
