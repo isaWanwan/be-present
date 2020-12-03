@@ -17,7 +17,7 @@ Hi!
 <br />  
 Thank you for taking part in this research! Your opinion will help us and future survey takers.   
 <br /> 
-We want to test two different versions of a survey for our Both& apparel website - a classical survey version and a chat survey version. We would like you to test both of them. After each survey, you will be guided to meta questions automatically. Total completion time should be around 10min.
+We want to test two different versions of a survey on your style preferences for our Both& apparel website - a classical survey version and a chat survey version. We would like you to test both of them. After each survey version, you will be guided to meta questions automatically. Total completion time should be around 10min.
 <br />
 ##### The structure will look like that
 
