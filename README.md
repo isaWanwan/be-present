@@ -23,7 +23,7 @@ We would like you to test surveys that I created for Both&.
 Both& is a start-up reimagining how clothing for a trans or nonbinary person can — and should — be. We want to understand how people think about clothing so that we can serve our community in the best way possible. If you are curious, you can visit our [website](http://www.bothandapparel.com/) with links to our Instagram and medium.
 <br />
 ##### What should you do now?
-In this particular study, you will see a survey on style preferences. There are two version of it - a classical survey version and a chat survey version. We would like you to test both of them. After each survey version, you will be guided to meta questions automatically. After the meta questions, you should take the other survey, respectively. Don't worry, links will guide you through the whole procedure. Total completion time should be no more than 10 min.
+In this particular study, you will see a survey on style preferences. There are two version of it - a classical survey version and a chat version. We would like you to test both of them. After each survey version, you will be guided to meta questions automatically. After the meta questions, you should take the other version, respectively. Don't worry, links will guide you through the whole procedure. Total completion time should be no more than 10 min.
    
 ##### Which survey should you take first?
 - If your birth*day* is on an **even** date (e.g., 8th of a month), start with the **classical** version.
