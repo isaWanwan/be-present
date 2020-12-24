@@ -17,10 +17,10 @@ Hi!
 <br />  
 Thank you for taking part in this research! Your opinion will help us.   
 <br />
-We would like you to test surveys that I created for Both&. 
+We would like you to test a survey for Both&. 
 <br />
 ##### Who is Both& ?
-Both& is a startup reimagining how clothing for a trans or nonbinary person can — and should — be. We want to understand how people think about clothing so that we can serve our community in the best way possible. If you are curious, you can visit our [website](http://www.bothandapparel.com/) with links to our Instagram and medium.
+Both& is a startup reimagining how clothing for a trans or nonbinary person can — and should — be. We want to understand how people think about clothing so that we can serve our community in the best way possible. If you are curious, you can visit our [website](http://www.bothandapparel.com/) which has links to our Instagram and medium.
 <br />
 ##### What should you do now?
 In this particular study, you will answer questions on style preferences. There are two survey version for it - a classical one and a chat one. We would like you to test both of them. After each survey version, you will be guided to meta questions automatically. After the meta questions, you should take the other survey version, respectively. Don't worry, links will guide you through the whole procedure. Total completion time should be no more than 10 min.
