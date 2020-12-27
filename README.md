@@ -20,7 +20,7 @@ Thank you for taking part in this research! Your opinion will help us.
 We would like you to test a survey for Both&. 
 <br />
 ##### Who is Both& ?
-Both& is a startup that is reimagining how clothing for a trans or nonbinary person can — and should — be. We ask surveys to understand people's pain points and preferences in clothing as our designs are based on the insights that we gather from survey results. In our surveys, however, we do not only want to get to know our potential clients but also have them get to know us.
+Both& is a startup that is reimagining how clothing for a trans or nonbinary person can — and should — be. We ask surveys to understand people's pain points and preferences in clothing. Our designs are based on insights that we get from survey results.
 <br />
 ##### What should you do now?
 In this particular study, you will answer questions on style preferences. There are two survey version for it - a classical one and a chat one. We would like you to test both of them. After each survey version, you will be guided to meta questions automatically. After the meta questions, you should take the other survey version, respectively. Don't worry, links will guide you through the whole procedure. Total completion time should be no more than 10 min.
