@@ -23,11 +23,11 @@ We would like you to test a survey for Both& apparel.
 Both& apparel is a startup that is reimagining how clothing for a trans or nonbinary person can — and should — be. We run surveys to understand trans and nonbinary people's pain points and preferences in clothing and use these insights to inform our design.
 <br />
 ##### What should you do now?
-In this study, you will answer questions on style preferences. Usually, people get to our surveys because they have seen us on our instagram page and liked what we are doing and thus volunteered to offer their opinions and insights. To mirror this scenario, it would be great if you could take the survey on your mobile phone as well and most importantly, answer the surveys the way you would in a real world setting.
+In this study, you will answer questions on style preferences. Usually, people get to our surveys because they have seen us on our instagram page and liked what we are doing and thus volunteered to offer their opinions and insights. To mirror this scenario, it would be great if you could use your mobile phone for this study as well and most importantly, answer the questions the way you would in a real world setting.
 
-There are two survey version - a classical one and a chat one. We would like you to test both of them. When you have finished a survey, there will be meta questions on the survey on which we ask for your impression. Then you should take the other survey version, respectively. Don't worry, links will guide you through the whole procedure automatically. Total completion time should be no more than 10 min.
+We would like you to test two different versions of the same survey: chat vs. classical. When you have finished one version, there will be meta questions by which we ask for your impression on that particular version. Then you should take the other survey version, respectively. Don't worry, links will guide you through the whole procedure automatically. Total completion time should be no more than 10 min.
    
-##### Which survey should you take first?
+##### Which survey version should you take first?
 - If your birth*day* is on an **even** date (e.g., 8th of a month), start with the **classical** version.
 - If your birth*day* is on an **odd** date (e.g., 9th of a month), start with the **chat** version.  
   
