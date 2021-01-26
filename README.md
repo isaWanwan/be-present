@@ -25,7 +25,7 @@ Both& apparel is a startup that is reimagining how clothing for a trans or nonbi
 ##### What should you do now?
 In this study, you will answer questions on style preferences. Usually, people get to our surveys because they have seen us on our instagram page and liked what we are doing and thus volunteered to offer their opinions and insights. To mirror this scenario, it would be great if you could use your mobile phone for this study as well and most importantly, answer the questions the way you would in a real world setting.
 
-Of the same survey, there are two survey versions - a classical one and a chat one. We would like you to test both of them. When you have finished a survey, there will be meta questions in which we ask for your impression on the version that you just took. Then you should take the other survey version, respectively. Don’t worry, links will guide you through the whole procedure automatically. Total completion time should be no more than 10 min.
+There will be two different versions of the same survey - a classical version and a chat version. We would like you to test both of them. When you have finished one version, there will be meta questions in which we ask for your impression on that particular version. Then you should take the other survey version, respectively. Don’t worry, links will guide you through the whole procedure automatically. Total completion time should be no more than 10 min.
    
 ##### Which survey version should you take first?
 - If your birth*day* is on an **even** date (e.g., 8th of a month), start with the **classical** version.
